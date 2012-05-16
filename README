@@ -1,7 +1,18 @@
 ##
-PERSONAL SITE	
+
+    PERSONAL SITE	
+
 ##
 
-A good excuse to learn the express framework, ins and outs, developed locally, eventually I'll put it on Heroku.
+Installed using express:
 
-Of course, nothing in here is proprietary, feel free to copy modify do anything you want. I'd like some street cred though...
+cd /Applications/XAMPP/xamppfiles/htdocs/node-personal-site
+pico .gitignore (node_modules)
+git init
+touch README
+pico README
+npm install express
+npm install socket.io
+npm install express -g
+express
+npm install -d
